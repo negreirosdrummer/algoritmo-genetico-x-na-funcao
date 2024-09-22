@@ -1,0 +1,1 @@
+# algoritmo-genetico-x-na-funcao
